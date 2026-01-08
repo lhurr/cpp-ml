@@ -1,0 +1,26 @@
+# Build directories
+build/
+bin/
+lib/
+
+# CMake specific
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CpackConfig.cmake
+CPackSourceConfig.cmake
+
+# IDE settings
+.vscode/
+.idea/
+.DS_Store
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables (if generated outside build/)
+*.exe
+*.out
+xor_demo
